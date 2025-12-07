@@ -20,12 +20,15 @@ Desenvolvido durante a formação de **Programação de Informática** – IEFP 
 ![Demo do programa](./demo.jpg "Encomenda de Pizza em execução")
 
 ### Estrutura do projeto
+
+```text
 EncomendaPizzaVbnet
 ├── ExercicioGeral.sln          ← abre diretamente no Visual Studio
 ├── ExercicioGeral.vbproj
 ├── Form1.vb                    ← código principal
 ├── Form1.Designer.vb
 ├── Form1.resx
+├── App.config
 └── README.md                   ← tudo explicado
 
 ### Como executar
