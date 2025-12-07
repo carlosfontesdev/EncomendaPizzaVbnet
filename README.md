@@ -21,21 +21,23 @@ Desenvolvido durante a formação de **Programação de Informática** – IEFP 
 
 ### Estrutura do projeto
 
-```text
-EncomendaPizzaVbnet
-├── ExercicioGeral.sln          ← abre diretamente no Visual Studio
-├── ExercicioGeral.vbproj
-├── Form1.vb                    ← código principal
-├── Form1.Designer.vb
-├── Form1.resx
-├── App.config
-└── README.md                   ← tudo explicado
-```text
+EncomendaPizzaVbnet  
+├── ExercicioGeral.sln          ← abre diretamente no Visual Studio  
+├── ExercicioGeral.vbproj  
+├── Form1.vb                    ← código principal  
+├── Form1.Designer.vb  
+├── Form1.resx  
+├── App.config  
+├── demo.jpg                    ← programa a correr  
+└── README.md                   ← tudo explicado  
 
 ### Como executar
-1. Abrir `ExercicioGeral.sln` no Visual Studio
-2. Pressionar **F5**
+1. Clica no botão verde **"Code"** → **"Download ZIP"**  
+2. Descompacta a pasta  
+3. Dá dois cliques no ficheiro `ExercicioGeral.sln`  
+4. Abre automaticamente no Visual Studio  
+5. Pressiona **F5**
 
 Feito por [Carlos Fontes](https://github.com/carlosfontesdev)  
-Programador Júnior | À procura de estágio curricular  
+Programador Júnior | À procura de estágio curricular 
 Braga, Portugal
