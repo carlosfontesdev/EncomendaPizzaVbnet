@@ -18,7 +18,16 @@ Desenvolvido durante a formação de **Programação de Informática** – IEFP 
 
 ### Captura de ecrã
 ![Demo do programa](./demo.jpg "Encomenda de Pizza em execução")
+
 ### Estrutura do projeto
+EncomendaPizzaVbnet
+├── ExercicioGeral.sln          ← abre diretamente no Visual Studio
+├── ExercicioGeral.vbproj
+├── Form1.vb                    ← código principal
+├── Form1.Designer.vb
+├── Form1.resx
+└── README.md                   ← tudo explicado
+
 ### Como executar
 1. Abrir `ExercicioGeral.sln` no Visual Studio
 2. Pressionar **F5**
