@@ -18,7 +18,7 @@ Desenvolvido durante a formação de **Programação de Informática** – IEFP 
 
 ### Captura de ecrã
 ![Demo do programa](./demo.jpg "Encomenda de Pizza em execução")
-
+### Estrutura do projeto
 ### Como executar
 1. Abrir `ExercicioGeral.sln` no Visual Studio
 2. Pressionar **F5**
