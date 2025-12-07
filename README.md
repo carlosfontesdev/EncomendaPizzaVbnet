@@ -17,7 +17,7 @@ Desenvolvido durante a formação de **Programação de Informática** – IEFP 
 - Visual Studio 2022/2023
 
 ### Captura de ecrã
-![Demo do programa](./screenshot.png "Encomenda de Pizza em execução")
+![Demo do programa](./demo.jpg "Encomenda de Pizza em execução")
 
 ### Como executar
 1. Abrir `ExercicioGeral.sln` no Visual Studio
