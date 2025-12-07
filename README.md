@@ -30,6 +30,7 @@ EncomendaPizzaVbnet
 ├── Form1.resx
 ├── App.config
 └── README.md                   ← tudo explicado
+```text
 
 ### Como executar
 1. Abrir `ExercicioGeral.sln` no Visual Studio
