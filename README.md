@@ -27,8 +27,7 @@ EncomendaPizzaVbnet
 ├── Form1.vb                    ← código principal  
 ├── Form1.Designer.vb  
 ├── Form1.resx  
-├── App.config  
-├── demo.jpg                    ← programa a correr  
+├── App.config    
 └── README.md                   ← tudo explicado  
 
 ### Como executar
